@@ -3,6 +3,8 @@ Although large language models (LLMs) exhibit robust generative capabilities for
 
 We used our dataset and generation methods to establish a system that can automatically generate test papers, aiming to relieve teachers' pressure and help learners consolidate knowledge.
 
-You should download all the files and then run the app.py file in the experiment.  Remember to configure the API interface of your own large language model.
+You should download all the files, convert relationship.json to an SQL file and import it into MySQL.，and then run the app.py file in the experiment.  
+
+Remember to configure the API interface of your own large language model.
  
  
